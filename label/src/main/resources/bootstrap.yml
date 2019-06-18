@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: label
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:9997
+      name: label
+      profile: test
+    bus:
+      enabled: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="500.0" y="607.0">com.example.loaders</node>
+    <node x="566.0" y="459.0">com.example.exceptions</node>
+    <node x="469.0" y="681.0">com.example.Authorities</node>
+    <node x="284.0" y="163.0">com.example.RabbitmqConsumerApplication</node>
+    <node x="0.0" y="755.0">com.example.User</node>
+    <node x="215.0" y="385.0">com.example.eurekaclientlab2</node>
+    <node x="0.0" y="533.0">com.example.controllers</node>
+    <node x="619.0" y="681.0">com.example.Male</node>
+    <node x="0.0" y="89.0">com.example.Producer</node>
+    <node x="528.0" y="533.0">com.example.ManagerTypes</node>
+    <node x="0.0" y="311.0">com.example.SchoolServiceApplication</node>
+    <node x="168.0" y="607.0">com.example.listeners</node>
+    <node x="228.0" y="311.0">com.example.configurationserver</node>
+    <node x="0.0" y="681.0">com.example.MsgProducer</node>
+    <node x="316.0" y="681.0">com.example.UserService</node>
+    <node x="0.0" y="385.0">com.example.EurekaLab2Application</node>
+    <node x="0.0" y="237.0">com.example.ConfigurationServerApplication</node>
+    <node x="325.0" y="89.0">com.example.RecordingStudio</node>
+    <node x="0.0" y="607.0">com.example.MsgController</node>
+    <node x="454.0" y="311.0">com.example.rabbitmqconsumer</node>
+    <node x="210.0" y="89.0">com.example.Manager</node>
+    <node x="514.0" y="237.0">com.example.EurekaClientLab2Application</node>
+    <node x="162.0" y="681.0">com.example.RoleService</node>
+    <node x="481.0" y="89.0">com.example.Singer</node>
+    <node x="180.0" y="533.0">com.example.Messages</node>
+    <node x="384.0" y="459.0">com.example.eurekalab2</node>
+    <node x="0.0" y="459.0">com.example.ConsumerController</node>
+    <node x="355.0" y="533.0">com.example.EnterController</node>
+    <node x="426.0" y="385.0">com.example.SecurityConfiguration</node>
+    <node x="0.0" y="163.0">com.example.RestTemplateResponseErrorHandler</node>
+    <node x="335.0" y="607.0">com.example.services</node>
+    <node x="115.0" y="89.0">com.example.Song</node>
+    <node x="260.0" y="237.0">com.example.SchoolServiceApplicationTests</node>
+    <node x="286.75" y="0.0">com.example.Entity</node>
+    <node x="582.0" y="89.0">com.example.Album</node>
+    <node x="198.0" y="459.0">com.example.repositories</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.Album" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="623.5" y="49.0" />
+      <point x="357.33333333333337" y="49.0" />
+      <point x="32.08333333333337" y="14.5" />
+    </edge>
+    <edge source="com.example.Manager" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="257.5" y="69.0" />
+      <point x="318.8333333333333" y="69.0" />
+      <point x="-6.416666666666686" y="14.5" />
+    </edge>
+    <edge source="com.example.RecordingStudio" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="393.0" y="69.0" />
+      <point x="331.6666666666667" y="69.0" />
+      <point x="6.416666666666686" y="14.5" />
+    </edge>
+    <edge source="com.example.Producer" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="47.5" y="49.0" />
+      <point x="293.1666666666667" y="49.0" />
+      <point x="-32.083333333333314" y="14.5" />
+    </edge>
+    <edge source="com.example.Singer" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="521.5" y="59.0" />
+      <point x="344.5" y="59.0" />
+      <point x="19.25" y="14.5" />
+    </edge>
+    <edge source="com.example.Song" target="com.example.Entity">
+      <point x="0.0" y="-14.5" />
+      <point x="152.5" y="59.0" />
+      <point x="306.0" y="59.0" />
+      <point x="-19.25" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
